@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently studing at North South University and doing my undergrade with major Computer science and engineering.I am an aspirent of AI engineering.
+🤖 AI & Machine Learning Engineer in Progress
+🎓 CSE @ North South University
+🐍 Python | C | C++ | Java
+📊 Data Science | NumPy | Pandas | Matplotlib | Seaborn
+🧠 DSA | Mathematics | Machine Learning
+🌐 Django | MySQL | Software Development
+🚀 Building projects, solving problems, and turning ideas into intelligent systems.
+
 
 
 ## 🌐 Socials:
