@@ -2,7 +2,7 @@
 🤖 AI & Machine Learning Engineer in Progress
 🎓 CSE @ North South University
 🐍 Python | C | C++ | Java
-📊 Data Science | NumPy | Pandas | Matplotlib | Seaborn
+📊 Data Science | NumPy | Pandas | Matplotlib | Seaborn | Sci-kit Learn | Pytorch| 
 🧠 DSA | Mathematics | Machine Learning
 🌐 Django | MySQL | Software Development
 🚀 Building projects, solving problems, and turning ideas into intelligent systems.
